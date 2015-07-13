@@ -1,4 +1,4 @@
-GestureDetector for Android with customizable longpress timeout. Based on standard GestureDetector with very small differences.
+Based on standard GestureDetector with very small differences.
 
 Use as usually. Added new constructor - CustomGestureDetector(Context context, OnGestureListener listener, int longPressTimeout)
 
